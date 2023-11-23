@@ -1,0 +1,119 @@
+--Modify this script so that it meets the requirements of Assignment  
+--When done, complete these tasks
+--1. Save this file so that it can be submitted via CANVAS
+--2. Execute the contents of this file in ISQL Jr
+--3. Copy and paste the output from ISQL Jr into a file as described in the assignment document and submit via CANVAS
+
+prompt START OF OUTPUT SECTION
+-- STUDENT NAMES and IDs
+prompt Student 1 ID:    XXXXXXXXXXX
+prompt Student 1 Name:  XXXXXXXXXXXXXX
+
+prompt Student 2 ID:    XXXXXXXXXXX
+prompt Student 2 Name:  XXXXXXXXXXXXXX
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 1
+prompt ENGLISH STATEMENTS
+--XXXXXXXXXXXXXXXX (Replace this line with your ENGISGH sentences requirement1 here)
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 2
+prompt DROP ALL TABLES
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 3
+prompt CREATE ALL TABLES - worker, task and allocation
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 4
+prompt insert worker, task and allocation data
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 5
+prompt Write a single SQL query statement that lists the work id, worker name, task id, task name and, hourly rate for each row in the allocation table.
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 6
+prompt Testing Primary and foreign key constraints
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 7
+prompt Testing Check constraints
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 8
+prompt Queries 8.1 to 8.4
+--XXXXXXXXXXXXXXXX 
+
+Prompt --------------------------------------------------------------
+prompt Requirement 10
+prompt CREATE TABLES - Timelog
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 11
+prompt insert Timelog data
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 12
+prompt Testing Primary and foreign key constraints
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 13
+prompt Listing Timelog data
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 14
+prompt Queries 14.1 to 14.6
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 16
+prompt CREATE TABLES - Manager and other required tables
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 17
+prompt insert Manager and other required table data
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 18
+prompt Testing Check constraints
+--XXXXXXXXXXXXXXXX 
+
+
+prompt --------------------------------------------------------------
+prompt Requirement 19
+prompt Queries 19.1 to 19.3
+--XXXXXXXXXXXXXXXX 
+
+Prompt End of the project 
+
+
+
